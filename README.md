@@ -1,10 +1,10 @@
 # Lariza Dalila Acuña Miglio
 
-**Desarrolladora Frontend Junior · React · TypeScript · JavaScript**
+**Desarrolladora Backend Junior · React · TypeScript · JavaScript**
 
 Soy Ingeniera Comercial y Desarrolladora Full Stack Junior formada en Henry. Desarrollo aplicaciones web con foco en interfaces claras, componentes reutilizables y necesidades de los usuarios. Mi experiencia en administración comercial y atención al cliente aporta una mirada práctica sobre los procesos que el software debe resolver.
 
-Busco oportunidades junior de desarrollo frontend o full stack. Resido en Paraguay y tengo disponibilidad para trabajo remoto y para trasladarme dentro del país.
+Busco oportunidades junior de desarrollo backend o full stack. Resido en Paraguay y tengo disponibilidad para trabajo remoto y para trasladarme dentro del país.
 
 ## Tecnologías
 
